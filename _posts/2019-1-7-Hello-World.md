@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Potagix is go!
+title: Potagix is go!!
 ---
